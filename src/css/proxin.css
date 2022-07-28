@@ -1,0 +1,16 @@
+
+.interface .logo {
+    content: url(https://i.imgur.com/h605720.jpeg);
+}
+
+#ad-bottom, #ad-left {
+    visibility: hidden !important;
+}
+
+#cmpPersistentLink {
+    visibility: hidden !important;
+}
+
+[data-v-52213b74] {
+    background-color: crimson !important;
+}
